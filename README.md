@@ -22,7 +22,7 @@ By tracking and comparing sales data across genres, stakeholders can identify wh
   
   Removed unnecessary columns which would not aid analysis including: Rank.
   
-  Replaced unneccessary abbreviations of some console names, in the 'Platform' column, with the full name of console. Some abbreviations were kept depending  on whether the console is commonly referred to, in this way by Gamers and Media.
+  Replaced unneccessary abbreviations of some console names, in the 'Platform' column, with the full name of console. Some abbreviations were kept depending  on whether the console is commonly referred to in this way, by Gamers and Media.
   
   Removed duplicates.
   
