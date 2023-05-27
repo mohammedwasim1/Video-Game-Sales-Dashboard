@@ -4,3 +4,13 @@
 ### **Dataset source**
 
 Link to dataset: https://www.kaggle.com/datasets/thedevastator/global-video-game-sales
+
+## **Objective**
+
+## **Justification**
+
+## **Steps taken**
+
+## **Key insights**
+
+## **Recommendations**
