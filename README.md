@@ -7,7 +7,7 @@ Link to dataset: https://www.kaggle.com/datasets/thedevastator/global-video-game
 
 ## **Objective**
 
-To find out the top five selling video game genres across all regions, platforms and publishers.
+To find out the top five best selling video game genres across all regions, platforms and publishers.
 
 ## **Justification**
 
