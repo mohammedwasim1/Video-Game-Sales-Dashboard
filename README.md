@@ -11,9 +11,26 @@ To find out the top five best selling video game genres across all regions, plat
 
 ## **Justification**
 
-By tracking and comparing sales data across genres, stakeholders can identify which genres are the most popular and financially successful. Game development studios can become informed on the market and make effective decisions regarding game development, publishing, and marketing strategies. This helps stakeholders understand the competitive landscape and make strategic decisions to gain a competitive edge.
+By tracking and comparing sales data across genres, stakeholders can identify which genres are the most popular and financially successful. Game development studios can become informed on the market and make effective decisions regarding game development, publishing, and marketing strategies. This helps stakeholders understand the competitive landscape and make decisions to achieve a competitive edge.
 
 ## **Steps taken**
+**Data integration**
+  
+  Connected the dataset (CSV file) into Power BI, through Power Query.
+
+**Data cleaning**
+  
+  Removed unnecessary columns which would not aid analysis including: Rank.
+  
+  Replaced unneccessary abbreviations of some console names, in the 'Platform' column, with the full name of console. Some abbreviations were kept depending  on whether the console is commonly referred to, in this way by Gamers and Media.
+  
+  Removed duplicates.
+  
+**Visualisations**
+  
+  Employed the use of appropriate chart types to represent my data accurately and intuitively. These included: Bar Charts, Pie charts and others.
+  
+  Enabled filters on some charts to only include top five globally selling genres, as it made the visuals relevant to my objective.
 
 ## **Key insights**
 
