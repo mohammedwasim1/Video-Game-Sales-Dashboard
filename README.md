@@ -1,1 +1,1 @@
-# Video-Game-Sales-Dashboard
+# Video Game Sales Dashboard
