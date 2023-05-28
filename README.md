@@ -42,5 +42,5 @@ Role-Playing (1448)
 Shooter (1237)
 Platform (860)
 
-The top five publishers who have produced for the five highest grossing genres, in descending order, are: Nintendo, Electronic Arts, Activision, Sony Computer Entertainment and Take Two Interactive.
+The top five publishers who have obtained the most sales from the five game genres, in descending order, are: Nintendo, Electronic Arts, Activision, Sony Computer Entertainment and Take Two Interactive.
 ## **Recommendations**
