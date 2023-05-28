@@ -20,9 +20,9 @@ By tracking and comparing sales data across genres, stakeholders can identify wh
 
 **Data cleaning**
   
-  Removed unnecessary columns which would not aid analysis including: Rank.
+  Removed unnecessary columns which would not aid analysis including 'Rank'.
   
-  Replaced unneccessary abbreviations of some console names, in the 'Platform' column, with the full name of console. Some abbreviations were kept depending  on whether the console is commonly referred to in this way, by Gamers and Media.
+  Replaced unnecessary abbreviations of some console names, in the 'Platform' column, with the full name of console. Some abbreviations were kept depending on whether the console is commonly referred to in this way, by Gamers and Media.
   
   Removed duplicates.
   
@@ -33,5 +33,14 @@ By tracking and comparing sales data across genres, stakeholders can identify wh
   Enabled filters on some charts to only include top five globally selling genres, as it made the visuals relevant to my objective.
 
 ## **Key insights**
+The top five best-selling video game genres across all regions (descending) are: Action, Sports, Shooter, Role-Playing and Platform.
 
+The number of games made for the top aforementioned successful game genres are as follows: 
+Action (3,195)
+Sports (2277)
+Role-Playing (1448)
+Shooter (1237)
+Platform (860)
+
+The top five publishers who have produced for the five highest grossing genres, in descending order, are: Nintendo, Electronic Arts, Activision, Sony Computer Entertainment and Take Two Interactive.
 ## **Recommendations**
